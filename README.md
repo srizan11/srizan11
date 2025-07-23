@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreejan.
-- 👀 I’m interested in developing projects using ReactJS, MSSQL, ExpressJS, NodeJS, NestJS...
+- 👀 I’m interested in developing projects using ReactJS, MSSQL, ExpressJS, NodeJS, NestJS, Postgres...
 - 🌱 It feels sophisticatedly serene developing and the overall matrix.
 - 💞️ I’m open to learning, collaboration, and implementation on any project or idea.
 - 📫 Feel free to reach me at: srizan.p@gmail.com
